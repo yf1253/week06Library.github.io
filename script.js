@@ -9,7 +9,7 @@ function preload() {
 //slider for sacle
 let scale = 1;
 let scaleSlider; //slider for scale
-let angle = 0;
+let angle = 1;
 let spinSlider; //slider for rotate
 
 function setup() {
